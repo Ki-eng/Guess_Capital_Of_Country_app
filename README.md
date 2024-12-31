@@ -1,16 +1,15 @@
 # Features
-**Guess the Capital:** Display a country name and let the user guess its capital city.
-**Score Tracking:** Tracks the score and total attempts made during the game.
-**Answer Reveal:** Toggle between the country name and its capital city.
-**Reset Game:** Allows resetting the score and attempts for a fresh start.
-**End of List Alert:** Alerts the user when they have reached the end of the country list.
+**Guess the Capital:** Display a country name and let the user guess its capital city.<br>
+**Score Tracking:** Tracks the score and total attempts made during the game.<br>
+**Answer Reveal:** Toggle between the country name and its capital city.<br>
+**Reset Game:** Allows resetting the score and attempts for a fresh start.<br>
+**End of List Alert:** Alerts the user when they have reached the end of the country list.<br>
 **Interactive Buttons:** Buttons to select correct or incorrect answers.
-Screenshots
-(Optional: Include screenshots of your app in action)
 
 ### Installation
 1. Clone the repository:
    ```bash
+   git clone https://github.com/yourusername/guess-country-capital.git
 
 ### Install dependencies:
 Dependencies: <br>
