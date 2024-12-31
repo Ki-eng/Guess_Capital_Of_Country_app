@@ -16,7 +16,7 @@ Dependencies: <br>
 rflutter_alert: ^2.0.7<br>
 rflutter_alert: To display alerts when the user reaches the end of the list or performs certain actions.<br>
 ```bash
-flutter pub get
+flutter pub get<br>
 
 
 ### Usage
