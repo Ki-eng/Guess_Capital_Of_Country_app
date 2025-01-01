@@ -36,7 +36,7 @@ class _GuessCountryState extends State<GuessCountry> {
         centerTitle: true,
         backgroundColor: Colors.indigo,
         title: Text(
-          'Guess The Capital of City',
+          'Guess The Capital of Country',
           style: TextStyle(fontSize: 24, color: Colors.white),
         ),
       ),
